@@ -1,0 +1,39 @@
+/***************************************************
+                     All
+****************************************************/
+
+/***************************************************
+                     Header
+****************************************************/
+.navbar a {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  text-decoration: none;
+}
+
+/*** Sidebar Css****/
+li.list-group-item.active a {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+}
+li.list-group-item a {
+  text-decoration: none;
+}
+li.list-group-item.active a:hover {
+  text-decoration: none;
+}
+/***************************************************
+                     Body
+****************************************************/
+.float-right {
+  float: right;
+}
+
+/***************************************************
+                     Footer
+****************************************************/
